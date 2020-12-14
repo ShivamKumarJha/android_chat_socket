@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Boltat</string>
+    <string name="offline">You are offline!</string>
+    <string name="ok">OK</string>
+    <string name="permission_request_storage">Permission to access sdcard is required to store data.</string>
+    <string name="permission_required">Permission required</string>
+    <string name="permission_storage_denied">Storage permission denied.</string>
+    <string name="permission_storage_granted">Storage permission granted.</string>
+    <string name="start">Start</string>
+    <string name="set_your_username">Set your username</string>
+    <string name="username">Username</string>
+    <string name="invalid_username">Invalid username</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="pick_image">Pick image</string>
+    <string name="chat_room">Chat room</string>
+    <string name="search">Search</string>
+    <string name="search_messages">Search messages</string>
+</resources>
